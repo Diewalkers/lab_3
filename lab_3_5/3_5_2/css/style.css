@@ -1,0 +1,20 @@
+table, td{
+	border:1px solid black;
+}
+table {
+	border-spacing: 0px;
+}
+td{
+	padding-right: 30px;
+}
+.string1{
+	text-align: center;
+	background: green;
+	color: white;
+}
+td:nth-child(even){
+	background: #7CFC00;
+}
+.odd {
+	background: #90EE90;
+}

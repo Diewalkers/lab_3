@@ -1,0 +1,26 @@
+table {
+	border-spacing: 1px;
+}
+.column1{
+	color: white;
+	background: #87CEFA;
+	padding-left:20px;
+	padding-right: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.string1{
+	color: white;
+	padding-left:30px;
+	padding-right: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: #87CEFA;
+}
+.all_string{
+	padding-left:30px;
+	padding-right: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: #ADD8E6;
+}

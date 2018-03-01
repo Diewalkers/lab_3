@@ -1,0 +1,126 @@
+body{
+	background: #342a2a;
+}
+.fullwrap{
+	max-width: 800px;
+	margin: 0 auto;
+	background: black;
+	overflow: hidden;
+	position: relative;
+}
+.div1{
+	float: left;
+	margin-bottom: -5px;
+}
+.div2{
+	float: right;
+	padding-right: 200px;
+}
+.div3{
+	left: 350px;
+	top: 60px;
+}
+.div4{
+	left: 600px;
+	top: 60px;
+}
+.div5{
+	left: 350px;
+	top: 155px;
+}
+.div6{
+	left: 600px;
+	top: 155px;
+}
+.div7{
+	left: 350px;
+	top: 250px
+}
+.div8{
+	left: 600px;
+	top: 250px;
+}
+.div3, .div4, .div5,.div6, .div7, .div8{
+	position: absolute;
+	width: 150px;
+	border-bottom: 1px solid grey;
+	text-align: center;
+}
+p{
+	font-weight: bold;
+	color: white;
+}
+.img{
+	position: absolute;
+	left: -20px;
+}
+.textcolor{
+	color: grey;
+}
+.button{
+	max-width: 800px;
+	margin: 0 auto;
+	padding-top: 10px;
+}
+.button1 button{
+	font-size: 20px;
+	padding: 10px;
+	border: 0;
+	float: right;
+	background: black;
+	color: white;
+}
+.div3:after {
+  content: '';
+  position: absolute;
+  border: 10px solid;
+  border-top-color: grey;
+  top: 100%;
+  left: 50%;
+  margin-left: -10px;
+}
+.div4:after {
+  content: '';
+  position: absolute;
+  border: 10px solid;
+  border-top-color: grey;
+  top: 100%;
+  left: 50%;
+  margin-left: -10px;
+}
+.div5:after {
+  content: '';
+  position: absolute;
+  border: 10px solid;
+  border-top-color: grey;
+  top: 100%;
+  left: 50%;
+  margin-left: -10px;
+}
+.div6:after {
+  content: '';
+  position: absolute;
+  border: 10px solid;
+  border-top-color: grey;
+  top: 100%;
+  left: 50%;
+  margin-left: -10px;
+}
+.div7:after {
+  content: '';
+  position: absolute;
+  border: 10px solid;
+  border-top-color: grey;
+  top: 100%;
+  left: 50%;
+  margin-left: -10px;
+}
+.div8:after {
+  content: '';
+  position: absolute;
+  border: 10px solid;
+  border-top-color: grey;
+  top: 100%;
+  left: 50%;
+  margin-left: -10px;
+}

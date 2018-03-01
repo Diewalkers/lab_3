@@ -1,0 +1,37 @@
+.table{
+	max-width: 800px;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 25px;
+	border-spacing: 0px;
+}
+.string1{
+	background: black;
+	color: white;
+	border-right:2px solid #696969; 
+	border-bottom:2px solid #696969;
+}
+.string2{
+	background: red;
+	color: white;
+	border-right:2px solid #A52A2A; 
+	border-bottom:2px solid #A52A2A;
+	width: 100px; 
+
+}
+.string3{
+	background: grey;
+	border-right:2px solid #696969; 
+	border-bottom:2px solid #696969; 
+}
+.string1, .string2, .string3{
+	padding: 20px 100px 20px 100px;
+}
+.table button{
+	background: red;
+	border: 0;
+	border-radius: 5px;
+	font-size: 15px;
+	padding: 10px 15px 10px 15px;
+	width: 120px;
+}
